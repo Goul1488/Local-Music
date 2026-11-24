@@ -1,0 +1,11 @@
+{
+  "name": "Local Music",
+  "description": "Своя музыка в профиле: статус «Слушает …» со шкалой времени, плейлист добавляешь сам",
+  "authors": [
+    {
+      "name": "Niko"
+    }
+  ],
+  "main": "index.js",
+  "hash": "a3cc0e47f8995476def98438caebc0e3c3cc1849a4783dc2379143202bc6fb69"
+}
